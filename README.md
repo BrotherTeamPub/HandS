@@ -1,1 +1,3 @@
-# HandS
+Hand Slate crafted for seamless handwriting with Apple Pencil. It allows you to quickly capture ideas with freehand writing, using two brush types—pen and pencil—and 10 beautiful color options for a personalized touch. Mistakes can be easily erased, and you can also clear the canvas with a single tap. The app supports undo and redo actions, giving you full control over your notes.
+
+A lock feature is also available: when you don’t need to make changes, simply tap the “Lock” button to disable text editing. Unlock it anytime to resume editing. Additionally, nine unique style modes allow you to select the interface that best suits your preferences. With a clean, user-friendly interface, this app provides a practical and professional solution for digital slating.
